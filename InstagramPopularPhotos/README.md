@@ -9,4 +9,4 @@ Instagram Popular Photo Viewer
 * **Image** 
 
 
-![alt tag](gif/InstagramPopularPhotos.gif)
+![alt tag](gif/InstagramPoupularPhotos.gif)
